@@ -39,5 +39,33 @@ p{
 }
 .box img{
     display:block;
-    margin 0 auto;
+    margin: 0 auto;
+    padding-bottom: 10px;
     }
+.box small{
+    padding-left: 30px;
+}
+.card-text{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.john{
+    margin-left: 17%;
+}
+.background{
+    background-color: gray;
+    height: 400px;
+}
+.width{
+    width: 25%;
+}
+.paragraph{
+    width: 20%;
+}
+footer p{
+    text-align: center;
+}
